@@ -1,12 +1,12 @@
-# CodePilot
+# Red FCU
 
 **A local AI Unity assistant powered by Ollama.**
 
-CodePilot is a Unity Editor extension that brings AI-assisted development directly into your Unity workflow.
+Red FCU is a Unity Editor extension that brings AI-assisted development directly into your Unity workflow.
 
-It runs AI models locally through **Ollama**, allowing CodePilot to work without requiring a cloud AI service, API keys, subscriptions, or AI credits.
+It runs AI models locally through **Ollama**, allowing Red FCU to work without requiring a cloud AI service, API keys, subscriptions, or AI credits.
 
-> 🚧 **Development Status:** CodePilot is actively being developed. Features and supported models may change as development continues.
+> 🚧 **Development Status:** Red FCU is actively being developed. Features and supported models may change as development continues.
 
 ---
 
@@ -31,11 +31,11 @@ It runs AI models locally through **Ollama**, allowing CodePilot to work without
 
 ---
 
-## 🧠 How CodePilot Works
+## 🧠 How Red FCU Works
 
-CodePilot connects to **Ollama**, a local AI runtime.
+Red FCU connects to **Ollama**, a local AI runtime.
 
-When Ollama is running, CodePilot can:
+When Ollama is running, Red FCU can:
 
 * Generate C# scripts
 * Read project files
@@ -43,13 +43,13 @@ When Ollama is running, CodePilot can:
 * Provide context-aware suggestions
 * Assist with Unity development
 
-If Ollama is closed, CodePilot cannot communicate with the local model until Ollama is running again.
+If Ollama is closed, Red FCU cannot communicate with the local model until Ollama is running again.
 
 ---
 
 ## 📦 Installation
 
-The complete installation tutorial is available in the **CodePilot Discord**.
+The complete installation tutorial is available in the **Red FCU Discord**.
 
 ### The setup guide includes:
 
@@ -61,13 +61,13 @@ The complete installation tutorial is available in the **CodePilot Discord**.
 
 ### Discord
 
-**[Join the CodePilot Discord](https://discord.gg/SuBuRVS6PK)**
+**[Join the Red FCU Discord](https://discord.gg/SuBuRVS6PK)**
 
 ---
 
 ## 🤖 Supported Models
 
-CodePilot is designed to work with local models that support code generation through Ollama.
+Red FCU is designed to work with local models that support code generation through Ollama.
 
 Examples include:
 
@@ -101,17 +101,17 @@ If you find a bug, please include:
 * Logs
 * Screenshots, if applicable
 
-You can submit issues through the **GitHub Issues** tab or the **CodePilot Discord**.
+You can submit issues through the **GitHub Issues** tab or the **Red FCU Discord**.
 
 ---
 
 ## 🔐 Privacy
 
-CodePilot is designed for local AI processing.
+Red FCU is designed for local AI processing.
 
-Your Unity project files are processed through the locally running Ollama instance rather than being sent to a CodePilot cloud server.
+Your Unity project files are processed through the locally running Ollama instance rather than being sent to a Red FCU cloud server.
 
-CodePilot does not require an external AI API key or cloud AI subscription.
+Red FCU does not require an external AI API key or cloud AI subscription.
 
 ---
 
@@ -133,54 +133,54 @@ This project is licensed under the **MIT License**.
 
 > Please note: These photos may not reflect recent changes.
 
-## CodePilot Logo
+## Red FCU Logo
 
-![CodePilot Logo](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Codepilot.Logo.jpg)
+![Red FCU Logo](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Codepilot.Logo.jpg)
 
-## CodePilot Photo 1
+## Red FCU Photo 1
 
-![CodePilot Photo 1](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo1.png)
+![Red FCU Photo 1](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo1.png)
 
-## CodePilot Photo 2
+## Red FCU Photo 2
 
-![CodePilot Photo 2](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo2.png)
+![Red FCU Photo 2](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo2.png)
 
-## CodePilot Photo 3
+## Red FCU Photo 3
 
-![CodePilot Photo 3](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo3.png)
+![Red FCU Photo 3](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo3.png)
 
-## CodePilot Photo 4
+## Red FCU Photo 4
 
-![CodePilot Photo 4](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo4.png)
+![Red FCU Photo 4](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo4.png)
 
-## CodePilot Photo 5
+## Red FCU Photo 5
 
-![CodePilot Photo 5](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo5.png)
+![Red FCU Photo 5](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo5.png)
 
-## CodePilot Photo 6
+## Red FCU Photo 6
 
-![CodePilot Photo 6](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo6.png)
+![Red FCU Photo 6](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo6.png)
 
-## CodePilot Photo 7
+## Red FCU Photo 7
 
-![CodePilot Photo 7](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo7.png)
+![Red FCU Photo 7](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo7.png)
 
-## CodePilot Photo 8
+## Red FCU Photo 8
 
-![CodePilot Photo 8](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo8.png)
+![Red FCU Photo 8](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo8.png)
 
-## CodePilot Photo 9
+## Red FCU Photo 9
 
-![CodePilot Photo 9](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo9.png)
+![Red FCU Photo 9](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo9.png)
 
-## CodePilot Photo 10
+## Red FCU Photo 10
 
-![CodePilot Photo 10](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo10.png)
+![Red FCU Photo 10](https://github.com/TXSRP/CodePilot/raw/main/Screenshots/Photo10.png)
 
 ---
 
 ## 💬 Community
 
-Need help with CodePilot, Ollama setup, model installation, or Unity integration?
+Need help with Red FCU, Ollama setup, model installation, or Unity integration?
 
-**[Join the CodePilot Discord](https://discord.gg/SuBuRVS6PK)**
+**[Join the Red FCU Discord](https://discord.gg/SuBuRVS6PK)**
