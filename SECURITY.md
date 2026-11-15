@@ -1,12 +1,12 @@
 # Security Policy
 
 ## Supported Versions
-CodePilot is currently in active development. Security updates are applied to the latest public release only.
+Red FCU is currently in active development. Security updates are applied to the latest public release only.
 
 ## Reporting a Vulnerability
 If you discover a security issue, please do **not** open a public GitHub issue.
 
-Instead, report it privately through the CodePilot Discord:
+Instead, report it privately through the Red FCU Discord:
 https://discord.gg/SuBuRVS6PK
 
 Please include:
@@ -17,7 +17,7 @@ Please include:
 - Any logs or screenshots
 
 ## Scope
-CodePilot is a fully offline Unity tool. It does not:
+Red FCU is a fully offline Unity tool. It does not:
 - Send data to external servers
 - Use cloud APIs
 - Transmit project files over the internet
@@ -28,7 +28,7 @@ All AI processing happens locally through Ollama.
 Please do not report:
 - Feature requests
 - Model performance issues
-- Unity editor warnings unrelated to CodePilot
+- Unity editor warnings unrelated to Red FCU
 - Ollama installation problems (handled in Discord)
 
 ## Response Process
