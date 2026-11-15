@@ -1,7 +1,7 @@
 -------------------------------------------------------------------
 
 # Minimum Requirements
-These are the lowest specs where CodePilot will run, but performance may be slow with larger models.
+These are the lowest specs where Red FCU will run, but performance may be slow with larger models.
 
 CPU: Quad‑core (Intel i5 8th gen / Ryzen 3 3000 series)
 
@@ -13,7 +13,7 @@ Storage: 100 GB free space
 
 Local AI models take significant storage
 
-Multiple models + Unity project + CodePilot tools
+Multiple models + Unity project + Red FCU tools
 
 OS: Windows 10 or Windows 11 (64‑bit)
 
