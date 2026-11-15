@@ -1,26 +1,26 @@
-License Name: CodePilot Free Use License (CFUL)
+License Name: Red FCU Free Use License (RFCUFUL)
 License Version: 1.0.0
 Release Year: 2026
-Project: CodePilot — Unity Development Assistant
-Rights Holder: CodePilot
+Project: Red FCU — Unity Development Assistant
+Rights Holder: Red FCU
 Repository: https://github.com/TXSRP/CodePilot/tree/main
 
-Copyright (c) 2026 CodePilot
+Copyright (c) 2026 Red FCU
 
 ============================================================
 1. PURPOSE
 ============================================================
 
-The CodePilot Free Use License (CFUL) governs the use, copying,
+The Red FCU Free Use License (RFCUFUL) governs the use, copying,
 modification, merging, private sharing, and other permitted activities
-involving CodePilot software.
+involving Red FCU software.
 
-CodePilot is intended to remain free to obtain and use. This license
+Red FCU is intended to remain free to obtain and use. This license
 allows users to use, copy, modify, merge, and privately share the Software
 for permitted purposes while restricting unauthorized public publication,
 public redistribution, and sale of copies.
 
-This license also establishes separate protections for official CodePilot
+This license also establishes separate protections for official Red FCU
 logos, wordmarks, icons, and designated branding assets.
 
 By exercising permissions granted under this license, you agree to comply
@@ -30,16 +30,16 @@ with its applicable terms and restrictions.
 2. DEFINITIONS
 ============================================================
 
-"CodePilot" means the CodePilot Unity Development Assistant software and
+"Red FCU" means the Red FCU Unity Development Assistant software and
 other materials expressly identified as being governed by this license.
 
-"Software" means the source code and other software components covered
+"Red FCU" means the source code and other software components covered
 by this license.
 
 "Rights Holder" means the person or legal entity that owns or is
 authorized to exercise the applicable rights in the relevant material.
 
-"CodePilot Branding" means official CodePilot logos, wordmarks, icons,
+"Red FCU Branding" means official Red FCU logos, wordmarks, icons,
 branding images, and other designated visual identity assets owned by
 or legally controlled by the applicable rights holder.
 
@@ -55,7 +55,7 @@ services, or other public distribution channels.
 "Modified Version" means a version of the Software that has been changed,
 adapted, extended, or combined with other code.
 
-"Official Repository" means the CodePilot repository maintained at:
+"Official Repository" means the Red FCU repository maintained at:
 https://github.com/TXSRP/CodePilot/tree/main
 
 ============================================================
@@ -64,25 +64,25 @@ https://github.com/TXSRP/CodePilot/tree/main
 
 Subject to this license, you are permitted to:
 
-a. Use CodePilot free of charge.
+a. Use Red FCU free of charge.
 
-b. Make copies of CodePilot for your own use.
+b. Make copies of Red FCU for your own use.
 
 c. Modify the Software for your own use.
 
 d. Merge the Software with other code for your own use.
 
-e. Use CodePilot for personal, educational, research, and commercial
+e. Use Red FCU for personal, educational, research, and commercial
 development activities.
 
-f. Retain the original CodePilot Branding when using a permitted copy
+f. Retain the original Red FCU Branding when using a permitted copy
 of the complete Software package.
 
-g. Share copies of CodePilot privately with friends or other individual
+g. Share copies of Red FCU privately with friends or other individual
 recipients, provided that the copies are shared free of charge and are
 not made publicly available.
 
-h. Share the official CodePilot repository link and authorized official
+h. Share the official Red FCU repository link and authorized official
 download links with other people.
 
 i. Submit pull requests to the Official Repository, including bug fixes,
@@ -91,7 +91,7 @@ improvements, code changes, documentation, and other contributions.
 j. Maintain private copies, private forks, backups, and Modified Versions
 for your own permitted use.
 
-These permissions do not grant ownership of CodePilot or its Branding.
+These permissions do not grant ownership of Red FCU or its Branding.
 
 Permission to use, copy, modify, merge, or privately share the Software
 does not grant permission to publicly redistribute copies.
@@ -102,28 +102,28 @@ does not grant permission to publicly redistribute copies.
 
 Unless the Rights Holder grants prior written permission, you may NOT:
 
-a. Publish or publicly redistribute copies of CodePilot.
+a. Publish or publicly redistribute copies of Red FCU.
 
-b. Upload copies of CodePilot to public repositories, download websites,
+b. Upload copies of Red FCU to public repositories, download websites,
 file-hosting services, or other public distribution platforms.
 
 c. Sell, rent, sublicense, or charge a fee specifically for copies of
-CodePilot or Modified Versions.
+Red FCU or Modified Versions.
 
-d. Publish or publicly redistribute Modified Versions of CodePilot.
+d. Publish or publicly redistribute Modified Versions of Red FCU.
 
-e. Repackage CodePilot and present it as your own software product.
+e. Repackage Red FCU and present it as your own software product.
 
 f. Claim to be the original creator, owner, or official maintainer of
-CodePilot without authorization.
+Red FCU without authorization.
 
 g. Create unauthorized public mirrors, download pages, or public releases
-containing copies of CodePilot.
+containing copies of Red FCU.
 
 h. Circumvent these restrictions by using another person, account, or
 organization to perform an activity prohibited by this license.
 
-i. Charge another person specifically for providing a copy of CodePilot,
+i. Charge another person specifically for providing a copy of Red FCU,
 including by disguising the charge as a packaging, access, or distribution
 fee.
 
@@ -134,44 +134,44 @@ Sharing a copy directly with a friend for free is permitted. Uploading that
 copy to a public website or repository for anyone to download is not
 permitted without prior written permission.
 
-Sharing an official CodePilot repository link or authorized download link
+Sharing an official Red FCU repository link or authorized download link
 is permitted and is not considered unauthorized Public Redistribution.
 
 Any redistribution authorized by the Rights Holder must comply with the
 conditions of that authorization.
 
 ============================================================
-5. CODEPILOT BRANDING
+5. Red FCU BRANDING
 ============================================================
 
-CodePilot Branding is expressly excluded from the general permissions
+Red FCU Branding is expressly excluded from the general permissions
 granted under this license, except for the limited permissions expressly
 stated in this section.
 
-The complete CodePilot Software package may contain official branding.
+The complete Red FCU Software package may contain official branding.
 The original branding may remain intact when a user retains, uses, modifies,
 backs up, or privately shares a permitted copy of the complete package.
 
 However, this license does NOT grant permission to independently extract,
-publish, redistribute, sell, or reuse CodePilot logos and branding images.
+publish, redistribute, sell, or reuse Red FCU logos and branding images.
 
 Unless separately authorized by the Rights Holder or otherwise permitted
 by applicable law, you may NOT:
 
-a. Distribute CodePilot logos or branding images as standalone assets.
+a. Distribute Red FCU logos or branding images as standalone assets.
 
-b. Use CodePilot Branding as the official identity of another product,
+b. Use Red FCU Branding as the official identity of another product,
 project, organization, or service.
 
-c. Claim CodePilot Branding as your own.
+c. Claim Red FCU Branding as your own.
 
 d. Falsely imply that a product or project is officially affiliated with,
-sponsored by, approved by, or endorsed by CodePilot.
+sponsored by, approved by, or endorsed by Red FCU.
 
 e. Remove or alter applicable ownership notices for the purpose of
 misrepresenting the origin of the Branding.
 
-f. Sell or independently redistribute official CodePilot Branding.
+f. Sell or independently redistribute official Red FCU Branding.
 
 Separate permission is required for uses of excluded Branding that are
 not otherwise permitted by applicable law.
@@ -198,7 +198,7 @@ You may not publicly publish or distribute a Modified Version without
 prior written permission from the Rights Holder.
 
 Modifying, merging, or extending the Software does not grant ownership of
-the original CodePilot materials or its Branding.
+the original Red FCU materials or its Branding.
 
 This license does not grant rights to third-party code beyond the rights
 available under the applicable third-party licenses.
@@ -210,7 +210,7 @@ available under the applicable third-party licenses.
 
 Where legally justified, the Rights Holder reserves the right to choose
 appropriate actions in response to unauthorized publication, public
-redistribution, sale, or misuse of protected CodePilot Branding.
+redistribution, sale, or misuse of protected Red FCU Branding.
 
 Depending on the circumstances and applicable law, possible actions include:
 
@@ -247,7 +247,7 @@ retaliation, or misuse of reporting procedures.
 
 This license does not override the licenses or rights governing third-party
 libraries, assets, or other materials included with or referenced by
-CodePilot.
+Red FCU.
 
 Unity Engine and Unity Technologies materials remain subject to their
 respective terms.
@@ -256,7 +256,7 @@ Third-party libraries, models, assets, and other components may have their
 own distribution and licensing requirements.
 
 You are responsible for complying with applicable third-party license
-requirements when using CodePilot.
+requirements when using Red FCU.
 
 Nothing in this license grants rights to third-party materials beyond the
 rights available under their respective licenses.
@@ -265,7 +265,7 @@ rights available under their respective licenses.
 9. CONTRIBUTIONS AND PULL REQUESTS
 ============================================================
 
-Contributions to CodePilot may be submitted through pull requests to the
+Contributions to Red FCU may be submitted through pull requests to the
 Official Repository.
 
 Contributions may include bug fixes, improvements, code changes, examples,
@@ -274,7 +274,7 @@ documentation, and other project-related materials.
 The Rights Holder may review, request changes to, accept, or reject
 contributions at their discretion.
 
-Before a contribution is incorporated into CodePilot, the applicable
+Before a contribution is incorporated into Red FCU, the applicable
 licensing terms for that contribution must be established.
 
 By submitting a contribution, you confirm that you have the rights
@@ -282,12 +282,12 @@ necessary to submit it and that you are not knowingly submitting material
 that unlawfully infringes another party's rights.
 
 Submitting a contribution does not automatically transfer ownership of it
-or grant permission to publish or redistribute CodePilot outside the
+or grant permission to publish or redistribute Red FCU outside the
 permissions of this license.
 
 Unless a separate written agreement states otherwise, accepted contributions
 must be made available under terms compatible with the licensing terms
-applicable to the relevant CodePilot materials, to the extent the contributor
+applicable to the relevant Red FCU materials, to the extent the contributor
 has the legal right to grant those permissions.
 
 Contributions submitted through the Official Repository may be publicly
@@ -349,7 +349,7 @@ The Rights Holder may reinstate permission in writing.
 13. LICENSE CHANGES
 ============================================================
 
-The Rights Holder may publish updated versions of the CodePilot Free Use
+The Rights Holder may publish updated versions of the Red FCU Free Use
 License for future releases.
 
 Each release should identify the license version that applies to it.
@@ -373,10 +373,10 @@ https://github.com/TXSRP/CodePilot/issues
 Email:
 CodePilot-Unity.AI@proton.me
 
-Requests to publish or publicly redistribute CodePilot must identify the
+Requests to publish or publicly redistribute Red FCU must identify the
 intended use and distribution method.
 
-Requests to use excluded CodePilot Branding must identify the relevant
+Requests to use excluded Red FCU Branding must identify the relevant
 assets and intended use.
 
 Permission for one activity does not automatically authorize other
@@ -386,9 +386,9 @@ restricted activities.
 15. LICENSE IDENTITY 
 ============================================================
 
-This license is named the CodePilot Free Use License (CFUL), Version 1.0.0.
+This license is named the Red FCU Free Use License (RFCUFUL), Version 1.0.0.
 
-It is a custom license created for CodePilot. It is not the MIT License,
+It is a custom license created for Red FCU. It is not the MIT License,
 Apache License 2.0, GNU General Public License, or another standard
 open-source license.
 
@@ -396,12 +396,12 @@ Because this license restricts public redistribution and the sale of copies,
 it should be described as a custom source-available license rather than
 an OSI-approved open-source license.
 
-CodePilot may be free to obtain and use under this license without being
+Red FCU may be free to obtain and use under this license without being
 unrestricted open-source software.
 
 ============================================================
 
-END OF CODEPILOT FREE USE LICENSE (CFUL) 1.0.0
+END OF Red FCU FREE USE LICENSE (RFCUFUL) 1.0.0
 
-Copyright (c) 2026 CodePilot. All rights reserved, subject to the
+Copyright (c) 2026 Red FCU. All rights reserved, subject to the
 permissions expressly granted in this license.
