@@ -1,6 +1,6 @@
 # Red FCU
 
-**A local AI Unity assistant powered by Ollama.**
+**A local AI Unity assistant powered by Ollama.** 
 
 Red FCU is a Unity Editor extension that brings AI-assisted development directly into your Unity workflow.
 
